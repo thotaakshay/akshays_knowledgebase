@@ -1,6 +1,6 @@
 # SOLO FILMMAKER KNOWLEDGE BASE
 
-**Canonical living artifact — Version 1.4**  
+**Canonical living artifact — Version 1.5**  
 **Created:** 2026-09-04  
 **Purpose:** This file is the single source of truth for Akshay's solo-filmmaking production system. It is separate from Life OS. It is not a short handbook. It is a mutable, detailed knowledge base that stores the current best understanding of how Akshay should imagine, plan, shoot, perform, edit in CapCut, sound-design, review, and improve reels without depending on another person.
 
@@ -1268,6 +1268,21 @@ Added audience-knowledge and KB-worthiness principles developed through practica
 
 ---
 
+
+## v1.5 — 2026-09-21
+Added the audience-inference and shot-selection framework developed during the current filmmaking lesson:
+
+- audience inference: omit safely reconstructable physical gaps when important story/emotion is preserved;
+- physical continuity versus story/thought continuity;
+- meaningful versus logistical action, including the correction that an action's function depends on how it is used rather than on the action itself;
+- story beats before physical action lists;
+- identifying where a scene's central meaning becomes visible, with decision/proof retained only as a scene example rather than a universal law;
+- progression: later screen time should move audience experience forward rather than merely show more physical activity;
+- duration does not determine usefulness;
+- a pre-final-edit KB review gate for important Reels before final export.
+
+Deliberately not promoted to permanent rules: “remove walking shots,” “changing clothes is unnecessary,” fixed 1–1.5 second shot durations, 30 seconds as a universal target, 35 seconds as inherently too long, the experimental rooftop re-edit as the correct version, or audience response to one Reel as proof of a particular filmmaking method.
+
 # 18. CURRENT ONE-SENTENCE SYSTEM
 
 > **Do not design a reel as a collection of shots. Design the final edit first, prove that every beat can be created solo and assembled in CapCut, then shoot only the coverage needed to build it, review the real result, and feed every verified discovery back into this knowledge base.**
@@ -1281,3 +1296,89 @@ For every difficult or technical concept that is important enough to keep in thi
 2. **Simple meaning:** the same idea in plain English that Akshay can quickly understand and apply. Add a small practical example when it materially improves understanding.
 
 Do not replace precision with simplification. Keep both. This rule exists both for Akshay's learning and so future AI interpretation remains consistent as the knowledge base grows.
+
+---
+
+# 19. AUDIENCE INFERENCE, ACTION VALUE, AND STORY-BEAT SELECTION
+
+This section governs how physical actions become screen time. Its purpose is to prevent a Reel from becoming a complete record of everything the character physically does when the audience only needs selected moments to follow and experience the story.
+
+## 19.1 Audience inference
+
+**Technical meaning:** Audience inference is the viewer's ability to reconstruct omitted physical action or information from the causal and contextual relationship between the shots that remain. An action may be omitted when the surrounding information lets the audience correctly infer what happened without losing story-critical, emotional, spatial, or dramatic information.
+
+**Simple meaning:** If the audience's brain can safely fill the gap, we do not always need to show the gap.
+
+**Example:** Character looks toward a drawer → CUT → hand is on the drawer handle. The walk to the drawer can often be inferred. This does not mean walking should always be removed; if the walk carries hesitation, exhaustion, tension, character behavior, geography, rhythm, or another important experience, it may deserve screen time.
+
+## 19.2 Physical continuity versus story/thought continuity
+
+**Technical meaning:** Physical continuity tracks how the character and objects move through space and action. Story/thought continuity tracks whether the audience can follow the character's intention, attention, decision, discovery, emotional development, and the causal progression of the scene. A film may omit portions of physical continuity while preserving clear story/thought continuity.
+
+**Simple meaning:** We do not have to show every physical step as long as the audience can still follow what matters.
+
+Do not protect physical continuity automatically. First ask whether the omitted movement contains information or experience the audience actually needs.
+
+## 19.3 Meaningful action versus logistical action
+
+**Technical meaning:** A logistical action primarily moves the character or objects through the physical procedure of the scene. A meaningful action communicates or develops character, emotion, intention, conflict, information, change, tension, rhythm, geography, or another relevant audience experience.
+
+**Simple meaning:** Logistical = the character has to do it to physically get through the scene. Meaningful = the audience gets something important from seeing it.
+
+**Important correction:** No physical action is permanently logistical or meaningful. Its value depends on how it is performed, framed, timed, contextualized, and used in the scene.
+
+**Example:** A 1.5-second walk toward a desk may be mere transportation. The same walk, performed with heavy posture and slow exhausted movement, may communicate that the character is drained but still forcing himself toward the work.
+
+## 19.4 Story beats before physical action lists
+
+**Technical meaning:** Before assigning shots to every physical action, identify the scene's meaningful beats: units in which intention, information, emotion, dramatic situation, or audience understanding advances or changes. Physical actions are then selected because they express those beats.
+
+**Simple meaning:** Do not begin with “What does the character physically do next?” Begin with “What should change for the audience next?”
+
+**Example:**
+
+Physical procedure: ENTER → CHANGE CLOTHES → WALK → PULL CHAIR → SIT → OPEN LAPTOP → TYPE.
+
+Underlying beat structure: ARRIVAL → EXHAUSTION → CHOICE → ACTION.
+
+The beat structure determines which parts of the physical procedure deserve screen time. One beat may require several shots; several beats may sometimes exist inside one shot.
+
+## 19.5 Where the scene's meaning becomes visible
+
+When planning a scene, identify the action or moment where its central meaning becomes visible to the audience. Setup actions may establish context and condition, while a later action may carry the decision, change, discovery, or payoff.
+
+**Example, not universal rule:** In the exhausted-after-office exercise, opening the laptop can represent the decision to continue filmmaking and beginning the work can provide proof that the decision is followed through. Other scenes may express decision and proof differently.
+
+## 19.6 Progression rule
+
+**Technical meaning:** Successive shots or actions should ideally advance, intensify, complicate, redirect, or resolve the audience's information, emotion, tension, expectation, character understanding, or story situation rather than merely restating information already understood.
+
+**Simple meaning:** Do not just show more. Move something forward.
+
+Repeated action is not automatically redundant. Repetition may be valuable when it creates escalation, rhythm, frustration, tension, comedy, pattern, or another intentional effect. The test is whether the audience experience progresses.
+
+## 19.7 Duration does not determine usefulness
+
+A short shot is not automatically efficient, and a long shot is not automatically wasteful. Three 0.8-second shots can still repeat the same information. A longer shot may be justified when performance, tension, emotion, or changing information continues developing inside it.
+
+Judge the shot by what the audience receives and when that job is complete, not by a fixed duration target.
+
+## 19.8 Pre-final-edit KB review gate
+
+For an important Reel, when Akshay provides a rough cut before final export, review the actual cut against the current KB before publication when practical.
+
+Review in this order:
+
+1. intended audience experience;
+2. story beats and where the central change/meaning becomes visible;
+3. audience current knowledge and what can safely be inferred;
+4. meaningful versus primarily logistical actions;
+5. progression versus unintentional repetition;
+6. continuity and comprehensibility;
+7. performance/blocking;
+8. sound;
+9. pacing and edit points;
+10. only then final export decisions.
+
+The goal is not to force the Reel shorter. The goal is to remove or reshape screen time that does not serve the intended audience experience while protecting useful performance, emotion, rhythm, and story information.
+
