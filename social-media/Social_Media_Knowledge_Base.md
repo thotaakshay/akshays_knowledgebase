@@ -1196,7 +1196,22 @@ The goal is not to maintain three disconnected personalities. The creator identi
 
 ---
 
+
+
+## Plain-language preservation rule
+When an important social-media, audience, analytics, platform, marketing, or creator-business concept is difficult or technical, preserve it in two layers:
+
+1. **Technical meaning:** the precise meaning needed so the concept is not distorted in future use.
+2. **Simple meaning:** the same idea in plain English that Akshay can quickly understand and apply. Add a small practical example when it materially improves understanding.
+
+Do not replace precision with simplification. Keep both. The simple explanation should help Akshay learn and should also help future AI interpretation remain consistent when the KB becomes larger and more complex.
+
+---
+
 # 25. CHANGE LOG
+
+## v1.1 — 2026-09-20
+Added the plain-language preservation rule: difficult/technical concepts should retain both a precise technical meaning and a simple practical explanation, with an example when useful.
 
 ## v1.0 — 2026-09-12
 Created the canonical Social Media Knowledge Base after clarifying Akshay's long-term creator goal.
