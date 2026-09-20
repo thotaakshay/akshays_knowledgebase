@@ -795,3 +795,13 @@ MUSIC - is it actually needed after natural sound
 design?
 The purpose of this sheet is not to fill every row every time. Use it to expose blind spots before 
 editing.
+---
+
+
+## Plain-language preservation rule
+For every difficult or technical concept that is important enough to keep in this knowledge base, preserve two layers:
+
+1. **Technical meaning:** the precise meaning so the concept is not distorted later.
+2. **Simple meaning:** the same idea in plain English that Akshay can quickly understand and apply. Add a small practical example when it materially improves understanding.
+
+Do not replace precision with simplification. Keep both. This rule exists both for Akshay's learning and so future AI interpretation remains consistent as the knowledge base grows.
