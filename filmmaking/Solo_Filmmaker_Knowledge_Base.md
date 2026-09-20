@@ -1271,3 +1271,13 @@ Added audience-knowledge and KB-worthiness principles developed through practica
 # 18. CURRENT ONE-SENTENCE SYSTEM
 
 > **Do not design a reel as a collection of shots. Design the final edit first, prove that every beat can be created solo and assembled in CapCut, then shoot only the coverage needed to build it, review the real result, and feed every verified discovery back into this knowledge base.**
+---
+
+
+## Plain-language preservation rule
+For every difficult or technical concept that is important enough to keep in this knowledge base, preserve two layers:
+
+1. **Technical meaning:** the precise meaning so the concept is not distorted later.
+2. **Simple meaning:** the same idea in plain English that Akshay can quickly understand and apply. Add a small practical example when it materially improves understanding.
+
+Do not replace precision with simplification. Keep both. This rule exists both for Akshay's learning and so future AI interpretation remains consistent as the knowledge base grows.
