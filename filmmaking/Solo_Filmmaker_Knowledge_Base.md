@@ -102,6 +102,16 @@ Do not force video into every lesson. Text, conversation, practical experiments,
 
 ---
 
+## 0.9 Connected-topic learning rule — 2026-10-11
+
+**Treat this KB as one connected filmmaking system, not a set of isolated techniques.** When a new topic arises, explain how and why it links to what Akshay already learned and to other relevant areas: audience intention ↔ story ↔ character action/blocking ↔ camera/framing/movement ↔ lighting ↔ performance ↔ sound ↔ edit. Revisit older explanations and cross-reference Lighting, Sound, or Social Media when a meaningful connection changes our understanding.
+
+Example: A character turns toward a window (blocking). That changes facial illumination and contrast (lighting), what the camera sees (framing/exposure), and possibly what the audience feels (story). Show this relationship rather than teaching blocking and lighting as separate definitions.
+
+**Do not force a universal experiment or prediction procedure.** Controlled tests, visual examples, short explanations, recall, and real projects are optional methods chosen according to the topic and Akshay's needs. Only make connections supported by the actual causal or creative relationship; explain uncertainty instead of inventing one.
+
+---
+
 # 1. CORE GOAL
 
 The long-term goal is not merely to make individual reels. It is to make Akshay capable of repeatedly turning an imagined scene into a finished reel by himself.
@@ -147,10 +157,10 @@ The core directional relationship is two-way:
 
 The director must understand both directions before production begins.
 
-## 2.3 Current learning method — project-led, controlled experiments
-The most useful learning pattern so far is not to finish a large cinematography curriculum before making reels. Learn one variable inside a small real scene, finish the edit, compare results, and carry only supported discoveries forward.
+## 2.3 Optional practice method — project-led, controlled experiments
+Small scenes and controlled edit variants can be useful when a particular uncertainty needs testing. This is **one optional practice tool**, subordinate to the connected-topic rule in Section 0.9, not the default method to impose on every subject. Connect new ideas with previous skills first where that is sufficient.
 
-Use this loop when a skill is uncertain:
+When a controlled project test is useful, one possible loop is:
 
 1. Design a tiny scene that isolates the uncertainty.
 2. Keep unrelated variables as constant as practical.
