@@ -805,3 +805,15 @@ For every difficult or technical concept that is important enough to keep in thi
 2. **Simple meaning:** the same idea in plain English that Akshay can quickly understand and apply. Add a small practical example when it materially improves understanding.
 
 Do not replace precision with simplification. Keep both. This rule exists both for Akshay's learning and so future AI interpretation remains consistent as the knowledge base grows.
+
+---
+
+## Current teaching overlay — Connected-topic learning rule (2026-10-11)
+
+This section is a **current teaching rule** for using this imported reference manual; it does not rewrite the historical lesson transcript above.
+
+Do not teach ambience, foreground sounds, microphone distance, spatial perspective, reverb, rhythm, silence, compression, and emotion as disconnected topics. Each time a new sound concept arises, explain how and why it connects to previously learned sound concepts and to character action, blocking, camera perspective, audience attention, scene intention, and editing. Refer to the appropriate old lesson whenever a later topic expands it.
+
+**Example:** Moving the performer away from the microphone changes the direct/room-sound balance. That connects distance and perspective to room reflections, intelligibility, character location, and the edit's intended point of attention. These links matter more than memorizing an isolated tool setting.
+
+Recall practice, controlled recordings, listening comparisons, and experiments are **optional aids**, not mandatory steps for every topic. Choose them when helpful. Distinguish physical acoustic mechanisms, creative choices and unverified personal conclusions. Keep technical definitions accurate and their linked explanations simple.
