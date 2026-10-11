@@ -4,6 +4,7 @@ Version-controlled source for Akshay's living knowledge systems.
 
 ## Current knowledge bases
 - `personal/Personal_Operating_and_Development_Knowledge_Base.md` — personal operating, self-development, evidence, experiments, and life-cost system.
+- `lighting/Life_OS_Skill_02_Lighting_Knowledge_Base.md` — specialist lighting knowledge and connections to camera, subject, and story.
 - `filmmaking/Solo_Filmmaker_Knowledge_Base.md` — canonical solo-filmmaking system.
 - `social-media/Social_Media_Knowledge_Base.md` — social-media/Instagram strategy and evidence system.
 - `sound/Life_OS_Skill_01_Sound_Reference_v1.1.md` — current Sound Skill reference imported from the v1.1 manual.
@@ -27,3 +28,9 @@ For every difficult or technical concept that is important enough to keep in thi
 2. **Simple meaning:** the same idea in plain English that Akshay can quickly understand and apply. Add a small practical example when it materially improves understanding.
 
 Do not replace precision with simplification. Keep both. This rule exists both for Akshay's learning and so future AI interpretation remains consistent as the knowledge base grows.
+
+## Connected-topic learning rule (2026-10-11)
+
+**Primary rule across all applicable knowledge bases: connect new knowledge to existing knowledge.** When teaching, revising, or using any new topic, identify where it fits among concepts already learned, how those concepts affect one another, and why the relationship matters in a real situation. Refer to the relevant sections within the same KB or across KBs (for example, lighting ↔ camera/exposure ↔ blocking ↔ emotion; sound ↔ performance ↔ editing; story ↔ audience ↔ packaging ↔ analytics). When new learning deepens or corrects an older explanation, update the older link as well.
+
+This is **not** a universal step-by-step learning method. Predicting, changing one variable, experiments, retrieval quizzes, or project exercises are optional techniques to choose **only when useful for that topic**. Do not require them in every lesson. Do not invent connections; distinguish confirmed mechanisms from plausible interpretations and open questions. Keep each connection simple, scientifically accurate where relevant, and useful in real life.
