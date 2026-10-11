@@ -206,16 +206,17 @@ Use these only for observed recurring problems, not as a giant routine.
 
 ### 3.7 Learning & Capability Development
 
-Working loop:
+**Primary learning rule — Connect knowledge rather than collecting disconnected lessons.** Whenever any relevant concept arises (filmmaking, sound, lighting, social media, work, self-development, etc.), identify where it fits in the existing knowledge system. Explain the meaningful relationships with what is already understood, how the concepts affect one another, and what this means in a real-life situation. Return to earlier concepts when new knowledge deepens or corrects them.
 
-**UNDERSTAND → RETRIEVE → APPLY → FAIL/SUCCEED → DIAGNOSE → CORRECT → REAPPLY**
+Examples: reflector ↔ light transport ↔ facial shadows ↔ camera image; attention ↔ fatigue/recovery ↔ work planning; a Reel's emotional intention ↔ performance, sound, editing, and audience response.
 
-Current working hypothesis:
-Akshay often learns filmmaking concepts more deeply when they are attached to a real shooting/editing problem than when they remain abstract.
+Do not infer causal relationships in personal behavior merely because events coincide. Separate observation from interpretation and working hypotheses from established knowledge.
 
-This is not yet a universal personal rule.
+A working loop such as **UNDERSTAND → RETRIEVE → APPLY → DIAGNOSE → CORRECT → REAPPLY** remains available **when useful** for building capability. It is not required for every topic. Neither one-variable experiments nor prediction exercises are universal requirements.
 
-Learning should increasingly create capability, not merely familiarity.
+Current working hypothesis: Akshay often finds new filmmaking concepts more understandable when their underlying causes and links to familiar real situations are explained, rather than when the concepts are taught as isolated definitions. This rule specifies **how to connect teaching content**, not a claim that one experiment format works best for every learner.
+
+Learning should build transferable understanding and practical capability, not merely familiarity.
 
 ### 3.8 Creativity & Thinking
 
