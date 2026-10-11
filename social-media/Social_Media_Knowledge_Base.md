@@ -106,6 +106,14 @@ This distinction is mandatory whenever reviewing a Reel.
 
 ---
 
+## 0.8 Connected-topic learning rule — 2026-10-11
+
+Build social-media knowledge by explicitly connecting new platform or audience concepts with what we already understand. A Reel's opening hook relates to the first image, story promise, sound, audience expectation, retention, creator identity, caption/cover packaging, and actual viewer response. Explain the **specific reason** a connection matters; refer back to the Solo Filmmaker KB when a publishing decision depends on film construction.
+
+Connect evidence across uploads when meaningful, but do not treat correlations as proof of platform causation or invent a reason for a view count. Distinguish stable principles from changing platform behavior. A/B tests and analytics experiments are useful **when the question warrants them**, not compulsory for every concept. This is a knowledge-integration rule, **not** a rigid lesson procedure.
+
+---
+
 # 1. CREATOR NORTH STAR
 
 ## 1.1 Long-term goal
